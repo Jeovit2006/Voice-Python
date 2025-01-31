@@ -19,6 +19,8 @@ def escutar_voz():
     try:
         frase = microfone.recognize_google(voz, language = 'pt-br')
 
+        print (f'você disse: {frase}')
+
         frase = frase.lower()
         
         # Programas gerais
@@ -147,8 +149,6 @@ def escutar_voz():
     except sr.UnknownValueError:
 
         playsound('frases_voice_python/nao_entendi.mp3')
-    
-    return frase
 
 def explicar_codigo():
     playsound('frases_voice_python/explicacao_codigo.wav')
