@@ -1,0 +1,5 @@
+1- Melhorar interface gráfica
+2- Colocar mais funcionalidades no código (Ler e escrever textos, Fazer pesquisas, Adicionar interações com o usuário, entre outros)
+3- Resolver alguns problemas
+4- Aplicar novas soluções (opcional)
+5- Aumentar base de programas e sites

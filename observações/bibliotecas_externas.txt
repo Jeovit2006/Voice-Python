@@ -1,0 +1,5 @@
+speech_recognition
+link: https://pypi.org/project/SpeechRecognition/
+
+webbrowser
+link: https://pypi.org/project/playsound3/
