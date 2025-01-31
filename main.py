@@ -149,8 +149,6 @@ def escutar_voz():
     except sr.UnknownValueError:
 
         playsound('frases_voice_python/nao_entendi.mp3')
-    
-    return frase
 
 def explicar_codigo():
     playsound('frases_voice_python/explicacao_codigo.wav')
